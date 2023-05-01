@@ -1,3 +1,2 @@
 # SHGA
-shanghai
 shanghai SQL
